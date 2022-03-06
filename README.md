@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YukyungSeo/YukyungSeo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 서유경의 github 홈페이지
 
-### Markdown
+## 소개 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+본인 소개를 추가하세요
 
-```markdown
-Syntax highlighted code block
+|이름 |서유경|![ykseo](/syk.jpg)|
+|연락처 | syk332(@)naver.com|
+|skill set| Frontend - HTML, CSS, Javascript|
+| | Backend - Java, Spring, Oracle|
+|자격증|  |
+|수상| |
+|특기사항|  |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## IT 경험
 
-1. Numbered
-2. List
+||주제 |기간|개요 |
+|1|[git](/subject/git)|2022년 3월|git 사용법 |
+|2|[java](/subject)|2022년 3월|java 기초|
+|3|[SQL](/subject)|2022년 4월|sql 기초 |
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YukyungSeo/YukyungSeo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 관련 링크 
+### [github](https://yukyungseo.github.io)
+### [youtube](https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ)
