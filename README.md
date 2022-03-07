@@ -18,7 +18,7 @@
 ## IT 경험
 
 ||주제 |기간|개요 |
-|1|[git](/git/index.html)|2022년 3월|git 사용법 |
+|1|[git](/git)|2022년 3월|git 사용법 |
 |2|[java](/subject)|2022년 3월|java 기초|
 |3|[SQL](/subject)|2022년 4월|sql 기초 |
 
