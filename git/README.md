@@ -18,7 +18,7 @@
 - Github 홈페이지 생성
 
 ## 발표 ppt 
-[발표자료](/220307_Github개요.pptx)<br>
+[발표자료](/git/220307_Github개요.pptx)<br>
 
 ## 시연 동영상  
 <iframe width="790" height="444" src="https://www.youtube.com/embed/f2sh7FXCIts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
