@@ -22,6 +22,9 @@
 [Class Diagram](/java/3.도서관리시스템_classdiagram_inMemory&inFile공통.pdf)<br>
 [기능명세서](/java/4.도서관리시스템_기능명세서_inMemory&inFile공통.pdf)<br>
 
+## [github 링크](https://github.com/YukyungSeo/kopo-BookManagementSystemProject.git)
+<br>
+
 ## 시연 동영상  
 <iframe width="853" height="480" src="https://www.youtube.com/embed/VY9hLFkA3Q8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
