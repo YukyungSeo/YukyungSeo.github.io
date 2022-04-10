@@ -2,8 +2,9 @@
 
 <br>
 # 과목 개요
- - ch1. Github 시작하기
- - ch2. Sourcetree 사용하기
+ - ch1. 자바 기초 문법
+ - ch2. 자바 객체 문법
+ - ch3. 자바 응용
 
 <br>
 # 과제 list
