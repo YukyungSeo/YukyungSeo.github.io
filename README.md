@@ -19,7 +19,8 @@
 
 ||주제 |기간|개요 |
 |1|[git](/git)|2022년 3월|git 사용법 |
-|2|[java](/java)|2022년 3월|java 기초|
+|2|[java](/java)|2022년 3월|JAVA|
+|2|[java](/linux)|2022년 4월|Linux|
 |3|[SQL](/subject)|2022년 4월|sql 기초 |
 
 ## 관련 링크 
