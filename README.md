@@ -21,7 +21,7 @@
 |1|[Git](/git)|2022년 3월|git 사용법 |
 |2|[JAVA](/java)|2022년 3월|JAVA|
 |3|[Linux](/linux)|2022년 4월|Linux|
-|4|[SQL](/subject)|2022년 5월|sql 기초 |
+|4|[JavaScript](/javascript)|2022년 5월|JavaScript|
 
 ## 관련 링크 
 ### [github](https://yukyungseo.github.io)
